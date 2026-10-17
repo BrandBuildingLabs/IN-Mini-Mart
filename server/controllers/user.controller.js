@@ -105,7 +105,8 @@ export async function verifyEmailController(request,response){
 //login controller
 export async function loginController(request,response){
     try {
-        const { email , password } = request.body
+        const { email: rawEmail, password } = request.body
+        const email = String(rawEmail || '').trim().toLowerCase()
 
 
         if(!email || !password){

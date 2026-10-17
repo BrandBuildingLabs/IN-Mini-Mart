@@ -15,6 +15,10 @@ import catalogRouter from './route/catalog.route.js'
 import cartRouter from './route/cart.route.js'
 import addressRouter from './route/address.route.js'
 import orderRouter from './route/order.route.js'
+import storeOrderRouter from './route/storeOrder.route.js'
+import bootstrapStore from './utils/bootstrapStore.js'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
 
 const app = express()
 app.use(cors({
@@ -28,7 +32,9 @@ app.use(helmet({
     crossOriginResourcePolicy : false
 }))
 
-const PORT = 8080 || process.env.PORT 
+const PORT = Number(process.env.PORT || 8080)
+const serverDirectory = path.dirname(fileURLToPath(import.meta.url))
+app.use('/uploads', express.static(path.join(serverDirectory, 'uploads')))
 
 app.get("/",(request,response)=>{
     ///server to client
@@ -46,8 +52,10 @@ app.use("/api/catalog",catalogRouter)
 app.use("/api/cart",cartRouter)
 app.use("/api/address",addressRouter)
 app.use('/api/order',orderRouter)
+app.use('/api/store-orders',storeOrderRouter)
 
-connectDB().then(()=>{
+connectDB().then(async()=>{
+    await bootstrapStore()
     app.listen(PORT,()=>{
         console.log("Server is running",PORT)
     })
