@@ -1,0 +1,2980 @@
+{
+  "categories": [
+    {
+      "id": "atta-rice-dal",
+      "name": "Atta, Rice & Dal",
+      "image": "/catalog-assets/categories/Atta,%20Rice%20&%20Dal.png"
+    },
+    {
+      "id": "baby-care",
+      "name": "Baby Care",
+      "image": "/catalog-assets/categories/Baby%20Care.png"
+    },
+    {
+      "id": "bakery-biscuits",
+      "name": "Bakery & Biscuits",
+      "image": "/catalog-assets/categories/Bakery%20&%20Biscuits.png"
+    },
+    {
+      "id": "breakfast-instant-food",
+      "name": "Breakfast & Instant Food",
+      "image": "/catalog-assets/categories/Breakfast%20&%20Instant%20Food.png"
+    },
+    {
+      "id": "chicken-meat-fish",
+      "name": "Chicken, Meat & Fish",
+      "image": "/catalog-assets/categories/Chicken,%20Meat%20&%20Fish.png"
+    },
+    {
+      "id": "cleaning-essentials",
+      "name": "Cleaning Essentials",
+      "image": "/catalog-assets/categories/Cleaning%20Essentials.png"
+    },
+    {
+      "id": "cold-drinks-juices",
+      "name": "Cold Drinks & Juices",
+      "image": "/catalog-assets/categories/Cold%20Drinks%20&%20Juices.png"
+    },
+    {
+      "id": "dairy-bread-eggs",
+      "name": "Dairy, Bread & Eggs",
+      "image": "/catalog-assets/categories/Dairy,%20Bread%20&%20Eggs.png"
+    },
+    {
+      "id": "fruits-vegetables",
+      "name": "Fruits & Vegetables",
+      "image": "/catalog-assets/categories/Fruits%20&%20Vegetables.png"
+    },
+    {
+      "id": "home-office",
+      "name": "Home & Office",
+      "image": "/catalog-assets/categories/Home%20&%20Office.png"
+    },
+    {
+      "id": "masala-oil-more",
+      "name": "Masala, Oil & More",
+      "image": "/catalog-assets/categories/Masala,%20Oil%20&%20More.png"
+    },
+    {
+      "id": "organic-healthy-living",
+      "name": "Organic & Healthy Living",
+      "image": "/catalog-assets/categories/Organic%20&%20Healthy%20Living.png"
+    },
+    {
+      "id": "paan-corner",
+      "name": "Paan Corner",
+      "image": "/catalog-assets/categories/paan%20corner.png"
+    },
+    {
+      "id": "personal-care",
+      "name": "Personal Care",
+      "image": "/catalog-assets/categories/Personal%20Care.png"
+    },
+    {
+      "id": "pet-care",
+      "name": "Pet Care",
+      "image": "/catalog-assets/categories/Pet%20Care.png"
+    },
+    {
+      "id": "pharma-wellness",
+      "name": "Pharma & Wellness",
+      "image": "/catalog-assets/categories/Pharma%20&%20Wellness.png"
+    },
+    {
+      "id": "sauces-spreads",
+      "name": "Sauces & Spreads",
+      "image": "/catalog-assets/categories/Sauces%20&%20Spreads.png"
+    },
+    {
+      "id": "snacks-munchies",
+      "name": "Snacks & Munchies",
+      "image": "/catalog-assets/categories/Snacks%20&%20Munchies.png"
+    },
+    {
+      "id": "sweet-tooth",
+      "name": "Sweet Tooth",
+      "image": "/catalog-assets/categories/Sweet%20Tooth.png"
+    },
+    {
+      "id": "tea-coffee-health-drink",
+      "name": "Tea, Coffee & Health Drink",
+      "image": "/catalog-assets/categories/Tea,%20Coffe%20&%20Health%20Drink.png"
+    }
+  ],
+  "products": [
+    {
+      "id": "INM-0001",
+      "name": "Atta",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 265,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Atta.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Atta.jpg"
+      ]
+    },
+    {
+      "id": "INM-0002",
+      "name": "Besan, Sooji & Maida",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 121,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Besan,%20Sooji%20&%20Maida.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Besan,%20Sooji%20&%20Maida.webp"
+      ]
+    },
+    {
+      "id": "INM-0003",
+      "name": "Millet & Other Flours",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 287,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Millet%20&%20Other%20Flours.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Millet%20&%20Other%20Flours.webp"
+      ]
+    },
+    {
+      "id": "INM-0004",
+      "name": "Moong & Masoor",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 165,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Moong%20&%20Masoor.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Moong%20&%20Masoor.webp"
+      ]
+    },
+    {
+      "id": "INM-0005",
+      "name": "Poha, Daliya & Other Grains",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 85,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Poha,%20Daliya%20&%20Other%20Grains.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Poha,%20Daliya%20&%20Other%20Grains.jpg"
+      ]
+    },
+    {
+      "id": "INM-0006",
+      "name": "Rajma, Chhole & Others",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 274,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Rajma,%20Chhole%20&%20Others.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Rajma,%20Chhole%20&%20Others.webp"
+      ]
+    },
+    {
+      "id": "INM-0007",
+      "name": "Rice",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 79,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Rice.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Rice.webp"
+      ]
+    },
+    {
+      "id": "INM-0008",
+      "name": "Toor, Urad & Chana",
+      "categoryId": "atta-rice-dal",
+      "category": "Atta, Rice & Dal",
+      "unit": "1 pack",
+      "price": 287,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Toor,%20Urad%20&%20Chana.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Atta,%20Rice%20&%20Dal/Toor,%20Urad%20&%20Chana.webp"
+      ]
+    },
+    {
+      "id": "INM-0009",
+      "name": "Baby Accessories & Apparel",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 76,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Baby%20Accessories%20&%20Apparel.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Baby%20Accessories%20&%20Apparel.png"
+      ]
+    },
+    {
+      "id": "INM-0010",
+      "name": "Baby Food",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 258,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Baby%20Food.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Baby%20Food.webp"
+      ]
+    },
+    {
+      "id": "INM-0011",
+      "name": "Baby Gifting & Toys",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 292,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Baby%20Gifting%20&%20Toys.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Baby%20Gifting%20&%20Toys.png"
+      ]
+    },
+    {
+      "id": "INM-0012",
+      "name": "Baby Wipes",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 238,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Baby%20Wipes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Baby%20Wipes.webp"
+      ]
+    },
+    {
+      "id": "INM-0013",
+      "name": "Bathing Needs",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 86,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Bathing%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Bathing%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0014",
+      "name": "Dispers & More",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 310,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Dispers%20&%20More.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Dispers%20&%20More.webp"
+      ]
+    },
+    {
+      "id": "INM-0015",
+      "name": "Feeding",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 155,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Feeding.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Feeding.webp"
+      ]
+    },
+    {
+      "id": "INM-0016",
+      "name": "Health & Safety",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 214,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Health%20&%20Safety.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Health%20&%20Safety.webp"
+      ]
+    },
+    {
+      "id": "INM-0017",
+      "name": "Hygiene",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 19,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Hygiene.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Hygiene.webp"
+      ]
+    },
+    {
+      "id": "INM-0018",
+      "name": "Mom Care Needs",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 369,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Mom%20Care%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Mom%20Care%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0019",
+      "name": "Nursing",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 293,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Nursing.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Nursing.webp"
+      ]
+    },
+    {
+      "id": "INM-0020",
+      "name": "Oral & Nasal Care",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 93,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Oral%20&%20Nasal%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Oral%20&%20Nasal%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0021",
+      "name": "Skin & Hair Care",
+      "categoryId": "baby-care",
+      "category": "Baby Care",
+      "unit": "1 pack",
+      "price": 179,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Baby%20Care/Skin%20&%20Hair%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Baby%20Care/Skin%20&%20Hair%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0022",
+      "name": "Bread & Pav",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 33,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Bread%20&%20Pav.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Bread%20&%20Pav.webp"
+      ]
+    },
+    {
+      "id": "INM-0023",
+      "name": "Cakes & Rolls",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 56,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Cakes%20&%20Rolls.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Cakes%20&%20Rolls.webp"
+      ]
+    },
+    {
+      "id": "INM-0024",
+      "name": "Cookies",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 393,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Cookies.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Cookies.webp"
+      ]
+    },
+    {
+      "id": "INM-0025",
+      "name": "Cream Biscuits",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 364,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Cream%20Biscuits.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Cream%20Biscuits.webp"
+      ]
+    },
+    {
+      "id": "INM-0026",
+      "name": "Glucose & Marie",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 188,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Glucose%20&%20Marie.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Glucose%20&%20Marie.webp"
+      ]
+    },
+    {
+      "id": "INM-0027",
+      "name": "Healthy & Digestive",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 181,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Healthy%20&%20Digestive.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Healthy%20&%20Digestive.webp"
+      ]
+    },
+    {
+      "id": "INM-0028",
+      "name": "Rusks & Wafers",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 331,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Rusks%20&%20Wafers.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Rusks%20&%20Wafers.jpg"
+      ]
+    },
+    {
+      "id": "INM-0029",
+      "name": "Sweet & Salty",
+      "categoryId": "bakery-biscuits",
+      "category": "Bakery & Biscuits",
+      "unit": "1 pack",
+      "price": 341,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Bakery%20%20Biscuits/Sweet%20&%20Salty.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Bakery%20%20Biscuits/Sweet%20&%20Salty.webp"
+      ]
+    },
+    {
+      "id": "INM-0030",
+      "name": "Dessert & Cake Mixes",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 369,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Dessert%20&%20Cake%20Mixes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Dessert%20&%20Cake%20Mixes.webp"
+      ]
+    },
+    {
+      "id": "INM-0031",
+      "name": "Herbs & Seasoning",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 149,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Herbs%20&%20Seasoning.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Herbs%20&%20Seasoning.webp"
+      ]
+    },
+    {
+      "id": "INM-0032",
+      "name": "Imported Noodles & Pasta",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 127,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Imported%20Noodles%20&%20Pasta.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Imported%20Noodles%20&%20Pasta.webp"
+      ]
+    },
+    {
+      "id": "INM-0033",
+      "name": "Instant Mixes",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 249,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Instant%20Mixes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Instant%20Mixes.webp"
+      ]
+    },
+    {
+      "id": "INM-0034",
+      "name": "Noodles",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 232,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Noodles.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Noodles.webp"
+      ]
+    },
+    {
+      "id": "INM-0035",
+      "name": "Pasta",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 317,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Pasta.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Pasta.webp"
+      ]
+    },
+    {
+      "id": "INM-0036",
+      "name": "Ready to Cook & Eat",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 372,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Ready%20to%20Cook%20&%20Eat.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Ready%20to%20Cook%20&%20Eat.webp"
+      ]
+    },
+    {
+      "id": "INM-0037",
+      "name": "Soup",
+      "categoryId": "breakfast-instant-food",
+      "category": "Breakfast & Instant Food",
+      "unit": "1 pack",
+      "price": 250,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Soup.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Breakfast%20&%20Instant%20Food/Soup.webp"
+      ]
+    },
+    {
+      "id": "INM-0038",
+      "name": "Chicken",
+      "categoryId": "chicken-meat-fish",
+      "category": "Chicken, Meat & Fish",
+      "unit": "1 pack",
+      "price": 284,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Chicken.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Chicken.jpg"
+      ]
+    },
+    {
+      "id": "INM-0039",
+      "name": "Eggs",
+      "categoryId": "chicken-meat-fish",
+      "category": "Chicken, Meat & Fish",
+      "unit": "1 pack",
+      "price": 334,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Eggs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Eggs.webp"
+      ]
+    },
+    {
+      "id": "INM-0040",
+      "name": "Fish & Seafood",
+      "categoryId": "chicken-meat-fish",
+      "category": "Chicken, Meat & Fish",
+      "unit": "1 pack",
+      "price": 356,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Fish%20&%20Seafood.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Fish%20&%20Seafood.jpg"
+      ]
+    },
+    {
+      "id": "INM-0041",
+      "name": "Sausage, Salami & Ham",
+      "categoryId": "chicken-meat-fish",
+      "category": "Chicken, Meat & Fish",
+      "unit": "1 pack",
+      "price": 192,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Sausage,%20Salami%20&%20Ham.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Chicken,%20Meat%20&%20Fish/Sausage,%20Salami%20&%20Ham.webp"
+      ]
+    },
+    {
+      "id": "INM-0042",
+      "name": "Cleaning Tools",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 241,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Cleaning%20Tools.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Cleaning%20Tools.webp"
+      ]
+    },
+    {
+      "id": "INM-0043",
+      "name": "Detergent Powder & Bars",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 115,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Detergent%20Powder%20&%20Bars.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Detergent%20Powder%20&%20Bars.webp"
+      ]
+    },
+    {
+      "id": "INM-0044",
+      "name": "Dishwashing Accessories",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 244,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0045",
+      "name": "Dishwashing Bars",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 355,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Bars.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Bars.webp"
+      ]
+    },
+    {
+      "id": "INM-0046",
+      "name": "Dishwashing Gels & Powder",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 103,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Gels%20&%20Powder.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Dishwashing%20Gels%20&%20Powder.webp"
+      ]
+    },
+    {
+      "id": "INM-0047",
+      "name": "Disinfectant & More",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 384,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Disinfectant%20&%20More.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Disinfectant%20&%20More.webp"
+      ]
+    },
+    {
+      "id": "INM-0048",
+      "name": "Floor Cleaners & More",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 30,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Floor%20Cleaners%20&%20More.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Floor%20Cleaners%20&%20More.webp"
+      ]
+    },
+    {
+      "id": "INM-0049",
+      "name": "Fresheners",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 224,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Fresheners.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Fresheners.webp"
+      ]
+    },
+    {
+      "id": "INM-0050",
+      "name": "Garbage Bags",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 155,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Garbage%20Bags.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Garbage%20Bags.webp"
+      ]
+    },
+    {
+      "id": "INM-0051",
+      "name": "Laundry Additives",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 264,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/Laundry%20Additives.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/Laundry%20Additives.webp"
+      ]
+    },
+    {
+      "id": "INM-0052",
+      "name": "LIquid Detergents",
+      "categoryId": "cleaning-essentials",
+      "category": "Cleaning Essentials",
+      "unit": "1 pack",
+      "price": 341,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cleaning%20Essentials/LIquid%20Detergents.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cleaning%20Essentials/LIquid%20Detergents.webp"
+      ]
+    },
+    {
+      "id": "INM-0053",
+      "name": "Beverages Gift Packs",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 237,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Beverages%20Gift%20Packs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Beverages%20Gift%20Packs.webp"
+      ]
+    },
+    {
+      "id": "INM-0054",
+      "name": "Coconut Water",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 299,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Coconut%20Water.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Coconut%20Water.webp"
+      ]
+    },
+    {
+      "id": "INM-0055",
+      "name": "Cold Coffe & Ice Tea",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 287,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Cold%20Coffe%20&%20Ice%20Tea.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Cold%20Coffe%20&%20Ice%20Tea.webp"
+      ]
+    },
+    {
+      "id": "INM-0056",
+      "name": "Concentrates & Syrups",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 128,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Concentrates%20&%20Syrups.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Concentrates%20&%20Syrups.webp"
+      ]
+    },
+    {
+      "id": "INM-0057",
+      "name": "Energy Drinks",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 333,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Energy%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Energy%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0058",
+      "name": "Fruit Juices",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 385,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Fruit%20Juices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Fruit%20Juices.webp"
+      ]
+    },
+    {
+      "id": "INM-0059",
+      "name": "Herbal Drinks",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 214,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Herbal%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Herbal%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0060",
+      "name": "Imported Beverages",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 95,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Imported%20Beverages.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Imported%20Beverages.webp"
+      ]
+    },
+    {
+      "id": "INM-0061",
+      "name": "Milk Drinks",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 38,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Milk%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Milk%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0062",
+      "name": "Mongo Drinks",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 150,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Mongo%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Mongo%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0063",
+      "name": "Pure Juices",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 359,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Pure%20Juices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Pure%20Juices.webp"
+      ]
+    },
+    {
+      "id": "INM-0064",
+      "name": "Soda & Mixers",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 246,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Soda%20&%20Mixers.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Soda%20&%20Mixers.jpg"
+      ]
+    },
+    {
+      "id": "INM-0065",
+      "name": "Soft Drinks",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 115,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Soft%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Soft%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0066",
+      "name": "Water & Ice Cubes",
+      "categoryId": "cold-drinks-juices",
+      "category": "Cold Drinks & Juices",
+      "unit": "1 pack",
+      "price": 268,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Water%20&%20Ice%20Cubes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Cold%20Drinks%20&%20Juices/Water%20&%20Ice%20Cubes.webp"
+      ]
+    },
+    {
+      "id": "INM-0067",
+      "name": "Batter",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 157,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Batter.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Batter.jpg"
+      ]
+    },
+    {
+      "id": "INM-0068",
+      "name": "Bread & Pav",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 75,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Bread%20&%20Pav.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Bread%20&%20Pav.webp"
+      ]
+    },
+    {
+      "id": "INM-0069",
+      "name": "Breakfast Mixes",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 106,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Breakfast%20Mixes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Breakfast%20Mixes.webp"
+      ]
+    },
+    {
+      "id": "INM-0070",
+      "name": "Butter & More",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 47,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Butter%20&%20More.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Butter%20&%20More.webp"
+      ]
+    },
+    {
+      "id": "INM-0071",
+      "name": "Cheese",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 140,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Cheese.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Cheese.webp"
+      ]
+    },
+    {
+      "id": "INM-0072",
+      "name": "Condensed Milk",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 269,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Condensed%20Milk.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Condensed%20Milk.jpg"
+      ]
+    },
+    {
+      "id": "INM-0073",
+      "name": "Cream & Whitener",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 75,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Cream%20&%20Whitener.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Cream%20&%20Whitener.webp"
+      ]
+    },
+    {
+      "id": "INM-0074",
+      "name": "Curd & Yogurt",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 130,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Curd%20&%20Yogurt.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Curd%20&%20Yogurt.jpg"
+      ]
+    },
+    {
+      "id": "INM-0075",
+      "name": "Eggs",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 114,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Eggs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Eggs.webp"
+      ]
+    },
+    {
+      "id": "INM-0076",
+      "name": "Energy Bars",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 66,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Energy%20Bars.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Energy%20Bars.png"
+      ]
+    },
+    {
+      "id": "INM-0077",
+      "name": "Flakes & Kids Cereals",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 364,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Flakes%20&%20Kids%20Cereals.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Flakes%20&%20Kids%20Cereals.webp"
+      ]
+    },
+    {
+      "id": "INM-0078",
+      "name": "Honey & Chyawnprash",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 102,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Honey%20&%20Chyawnprash.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Honey%20&%20Chyawnprash.webp"
+      ]
+    },
+    {
+      "id": "INM-0079",
+      "name": "Milk Drinks",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 306,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Milk%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Milk%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0080",
+      "name": "Milk",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 17,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Milk.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Milk.webp"
+      ]
+    },
+    {
+      "id": "INM-0081",
+      "name": "Muesli & Granola",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 306,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Muesli%20&%20Granola.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Muesli%20&%20Granola.webp"
+      ]
+    },
+    {
+      "id": "INM-0082",
+      "name": "Oats",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 358,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Oats.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Oats.webp"
+      ]
+    },
+    {
+      "id": "INM-0083",
+      "name": "Paneer & Tofu",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 214,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Paneer%20&%20Tofu.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Paneer%20&%20Tofu.webp"
+      ]
+    },
+    {
+      "id": "INM-0084",
+      "name": "Peanut Butter",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 275,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Peanut%20Butter.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Peanut%20Butter.webp"
+      ]
+    },
+    {
+      "id": "INM-0085",
+      "name": "Poha, Daliya & Other Grains",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 35,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Poha,%20Daliya%20&%20Other%20Grains.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Poha,%20Daliya%20&%20Other%20Grains.jpg"
+      ]
+    },
+    {
+      "id": "INM-0086",
+      "name": "Sausage, Salami & Ham",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 264,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Sausage,%20Salami%20&%20Ham.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Sausage,%20Salami%20&%20Ham.webp"
+      ]
+    },
+    {
+      "id": "INM-0087",
+      "name": "Vermicelli",
+      "categoryId": "dairy-bread-eggs",
+      "category": "Dairy, Bread & Eggs",
+      "unit": "1 pack",
+      "price": 151,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Vermicelli.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Dairy,%20Bread%20&%20Eggs/Vermicelli.jpg"
+      ]
+    },
+    {
+      "id": "INM-0088",
+      "name": "Certified Organic",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 240,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Certified%20Organic.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Certified%20Organic.webp"
+      ]
+    },
+    {
+      "id": "INM-0089",
+      "name": "Combo & Recipes",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 332,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Combo%20&%20Recipes.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Combo%20&%20Recipes.webp"
+      ]
+    },
+    {
+      "id": "INM-0090",
+      "name": "Flowers & Leaves",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 356,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Flowers%20&%20Leaves.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Flowers%20&%20Leaves.webp"
+      ]
+    },
+    {
+      "id": "INM-0091",
+      "name": "Fresh Fruits",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 93,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Fruits.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Fruits.png"
+      ]
+    },
+    {
+      "id": "INM-0092",
+      "name": "Fresh Juice & Dips",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 122,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Juice%20&%20Dips.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Juice%20&%20Dips.webp"
+      ]
+    },
+    {
+      "id": "INM-0093",
+      "name": "Fresh Vegetables",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 241,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Vegetables.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Fresh%20Vegetables.png"
+      ]
+    },
+    {
+      "id": "INM-0094",
+      "name": "Freshly Cut Sprouts",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 143,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Freshly%20Cut%20Sprouts.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Freshly%20Cut%20Sprouts.webp"
+      ]
+    },
+    {
+      "id": "INM-0095",
+      "name": "Frozen Veg",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 187,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Frozen%20Veg.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Frozen%20Veg.webp"
+      ]
+    },
+    {
+      "id": "INM-0096",
+      "name": "Hydroponic",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 300,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Hydroponic.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Hydroponic.webp"
+      ]
+    },
+    {
+      "id": "INM-0097",
+      "name": "Leafies & Herbs",
+      "categoryId": "fruits-vegetables",
+      "category": "Fruits & Vegetables",
+      "unit": "1 pack",
+      "price": 81,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Fruits%20&%20Vegetables/Leafies%20&%20Herbs.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Fruits%20&%20Vegetables/Leafies%20&%20Herbs.png"
+      ]
+    },
+    {
+      "id": "INM-0098",
+      "name": "Appliances",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 145,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Appliances.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Appliances.webp"
+      ]
+    },
+    {
+      "id": "INM-0099",
+      "name": "Audio & Accessories",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 85,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Audio%20&%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Audio%20&%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0100",
+      "name": "Bags",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 296,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Bags.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Bags.webp"
+      ]
+    },
+    {
+      "id": "INM-0101",
+      "name": "Bouquets",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 185,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Bouquets.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Bouquets.webp"
+      ]
+    },
+    {
+      "id": "INM-0102",
+      "name": "Candles & Diyas",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 208,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Candles%20&%20Diyas.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Candles%20&%20Diyas.webp"
+      ]
+    },
+    {
+      "id": "INM-0103",
+      "name": "Cleaning Tools",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 17,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Cleaning%20Tools.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Cleaning%20Tools.webp"
+      ]
+    },
+    {
+      "id": "INM-0104",
+      "name": "Clothing, Footwear & Accessories",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 29,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Clothing,%20Footwear%20&%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Clothing,%20Footwear%20&%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0105",
+      "name": "Decorative Lights",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 237,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Decorative%20Lights.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Decorative%20Lights.png"
+      ]
+    },
+    {
+      "id": "INM-0106",
+      "name": "Electrical Accessories",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 48,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Electrical%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Electrical%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0107",
+      "name": "Electronic Accessories",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 286,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Electronic%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Electronic%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0108",
+      "name": "Electronic Gifting",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 48,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Electronic%20Gifting.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Electronic%20Gifting.webp"
+      ]
+    },
+    {
+      "id": "INM-0109",
+      "name": "Festive & Occasion Needs",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 38,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Festive%20&%20Occasion%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Festive%20&%20Occasion%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0110",
+      "name": "Festive Gifting",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 339,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Festive%20Gifting.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Festive%20Gifting.webp"
+      ]
+    },
+    {
+      "id": "INM-0111",
+      "name": "Fresheners",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 338,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Fresheners.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Fresheners.webp"
+      ]
+    },
+    {
+      "id": "INM-0112",
+      "name": "Garbage Bags",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 180,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Garbage%20Bags.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Garbage%20Bags.webp"
+      ]
+    },
+    {
+      "id": "INM-0113",
+      "name": "Home Decor",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 309,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Home%20Decor.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Home%20Decor.webp"
+      ]
+    },
+    {
+      "id": "INM-0114",
+      "name": "Home Furnishing",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 292,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Home%20Furnishing.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Home%20Furnishing.png"
+      ]
+    },
+    {
+      "id": "INM-0115",
+      "name": "Kitchen & Dining Needs",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 17,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Kitchen%20&%20Dining%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Kitchen%20&%20Dining%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0116",
+      "name": "Machine & Care Care",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 145,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Machine%20&%20Care%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Machine%20&%20Care%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0117",
+      "name": "Party Essentials",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 284,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Party%20Essentials.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Party%20Essentials.webp"
+      ]
+    },
+    {
+      "id": "INM-0118",
+      "name": "Plants",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 81,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Plants.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Plants.webp"
+      ]
+    },
+    {
+      "id": "INM-0119",
+      "name": "Pooja Needs",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 85,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Pooja%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Pooja%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0120",
+      "name": "Precious Coins & Jewellery",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 372,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Precious%20Coins%20&%20Jewellery.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Precious%20Coins%20&%20Jewellery.webp"
+      ]
+    },
+    {
+      "id": "INM-0121",
+      "name": "Repellents",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 262,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Repellents.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Repellents.webp"
+      ]
+    },
+    {
+      "id": "INM-0122",
+      "name": "Shoe Care",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 190,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Shoe%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Shoe%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0123",
+      "name": "Stationery Needs",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 293,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Stationery%20Needs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Stationery%20Needs.webp"
+      ]
+    },
+    {
+      "id": "INM-0124",
+      "name": "Tissues & Disposables",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 56,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Tissues%20&%20Disposables.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Tissues%20&%20Disposables.webp"
+      ]
+    },
+    {
+      "id": "INM-0125",
+      "name": "Winter Wear",
+      "categoryId": "home-office",
+      "category": "Home & Office",
+      "unit": "1 pack",
+      "price": 354,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Home%20&%20Office/Winter%20Wear.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Home%20&%20Office/Winter%20Wear.png"
+      ]
+    },
+    {
+      "id": "INM-0126",
+      "name": "Dates & Seeds",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 309,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dates%20&%20Seeds.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dates%20&%20Seeds.webp"
+      ]
+    },
+    {
+      "id": "INM-0127",
+      "name": "Dry Fruits Gift Packs",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 29,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dry%20Fruits%20Gift%20Packs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dry%20Fruits%20Gift%20Packs.webp"
+      ]
+    },
+    {
+      "id": "INM-0128",
+      "name": "Dry Fruits",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 386,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dry%20Fruits.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Dry%20Fruits.webp"
+      ]
+    },
+    {
+      "id": "INM-0129",
+      "name": "Ghee & Vanaspati",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 359,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Ghee%20&%20Vanaspati.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Ghee%20&%20Vanaspati.webp"
+      ]
+    },
+    {
+      "id": "INM-0130",
+      "name": "Oil",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 107,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Oil.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Oil.webp"
+      ]
+    },
+    {
+      "id": "INM-0131",
+      "name": "Papad & Fryums",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 54,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Papad%20&%20Fryums.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Papad%20&%20Fryums.webp"
+      ]
+    },
+    {
+      "id": "INM-0132",
+      "name": "Powdered Spices",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 71,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Powdered%20Spices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Powdered%20Spices.webp"
+      ]
+    },
+    {
+      "id": "INM-0133",
+      "name": "Salt, Sugar & Jaggery",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 266,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Salt,%20Sugar%20&%20Jaggery.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Salt,%20Sugar%20&%20Jaggery.webp"
+      ]
+    },
+    {
+      "id": "INM-0134",
+      "name": "Whole Spices",
+      "categoryId": "masala-oil-more",
+      "category": "Masala, Oil & More",
+      "unit": "1 pack",
+      "price": 331,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Masala,%20Oil%20&%20More/Whole%20Spices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Masala,%20Oil%20&%20More/Whole%20Spices.webp"
+      ]
+    },
+    {
+      "id": "INM-0135",
+      "name": "Baby Food",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 336,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Baby%20Food.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Baby%20Food.webp"
+      ]
+    },
+    {
+      "id": "INM-0136",
+      "name": "Breakfast & More",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 144,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Breakfast%20&%20More.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Breakfast%20&%20More.webp"
+      ]
+    },
+    {
+      "id": "INM-0137",
+      "name": "Cookies & Wafers",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 96,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Cookies%20&%20Wafers.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Cookies%20&%20Wafers.webp"
+      ]
+    },
+    {
+      "id": "INM-0138",
+      "name": "Cooking Essentials",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 323,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Cooking%20Essentials.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Cooking%20Essentials.jpg"
+      ]
+    },
+    {
+      "id": "INM-0139",
+      "name": "Dry Fruits, Nuts & Seeds",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 226,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Dry%20Fruits,%20Nuts%20&%20Seeds.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Dry%20Fruits,%20Nuts%20&%20Seeds.jpg"
+      ]
+    },
+    {
+      "id": "INM-0140",
+      "name": "Healthy Proteins",
+      "categoryId": "organic-healthy-living",
+      "category": "Organic & Healthy Living",
+      "unit": "1 pack",
+      "price": 188,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Healthy%20Proteins.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Organic%20&%20Healthy%20Living/Healthy%20Proteins.webp"
+      ]
+    },
+    {
+      "id": "INM-0141",
+      "name": "Lighters & Accessories",
+      "categoryId": "paan-corner",
+      "category": "Paan Corner",
+      "unit": "1 pack",
+      "price": 326,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/paan%20corner/Lighters%20&%20Accessories.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/paan%20corner/Lighters%20&%20Accessories.webp"
+      ]
+    },
+    {
+      "id": "INM-0142",
+      "name": "Mouth Fresheners",
+      "categoryId": "paan-corner",
+      "category": "Paan Corner",
+      "unit": "1 pack",
+      "price": 335,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/paan%20corner/Mouth%20Fresheners.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/paan%20corner/Mouth%20Fresheners.webp"
+      ]
+    },
+    {
+      "id": "INM-0143",
+      "name": "Paan",
+      "categoryId": "paan-corner",
+      "category": "Paan Corner",
+      "unit": "1 pack",
+      "price": 220,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/paan%20corner/Paan.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/paan%20corner/Paan.webp"
+      ]
+    },
+    {
+      "id": "INM-0144",
+      "name": "Smoking Cessation",
+      "categoryId": "paan-corner",
+      "category": "Paan Corner",
+      "unit": "1 pack",
+      "price": 266,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/paan%20corner/Smoking%20Cessation.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/paan%20corner/Smoking%20Cessation.webp"
+      ]
+    },
+    {
+      "id": "INM-0145",
+      "name": "Bath & Beauty Gifts",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 192,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Bath%20&%20Beauty%20Gifts.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Bath%20&%20Beauty%20Gifts.webp"
+      ]
+    },
+    {
+      "id": "INM-0146",
+      "name": "Bathing Soaps",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 107,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Bathing%20Soaps.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Bathing%20Soaps.webp"
+      ]
+    },
+    {
+      "id": "INM-0147",
+      "name": "Body Moisturizers & More",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 173,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Body%20Moisturizers%20&%20More.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Body%20Moisturizers%20&%20More.png"
+      ]
+    },
+    {
+      "id": "INM-0148",
+      "name": "Face Care",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 60,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Face%20Care.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Face%20Care.png"
+      ]
+    },
+    {
+      "id": "INM-0149",
+      "name": "Face Cream & Lotion",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 203,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Face%20Cream%20&%20Lotion.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Face%20Cream%20&%20Lotion.webp"
+      ]
+    },
+    {
+      "id": "INM-0150",
+      "name": "Face Wash & Scrub",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 28,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Face%20Wash%20&%20Scrub.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Face%20Wash%20&%20Scrub.webp"
+      ]
+    },
+    {
+      "id": "INM-0151",
+      "name": "Feminine Care",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 300,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Feminine%20Care.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Feminine%20Care.png"
+      ]
+    },
+    {
+      "id": "INM-0152",
+      "name": "Fragrance & Talc",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 305,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Fragrance%20&%20Talc.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Fragrance%20&%20Talc.webp"
+      ]
+    },
+    {
+      "id": "INM-0153",
+      "name": "Hair Oil & Serum",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 382,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Hair%20Oil%20&%20Serum.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Hair%20Oil%20&%20Serum.webp"
+      ]
+    },
+    {
+      "id": "INM-0154",
+      "name": "Hair Styling",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 266,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Hair%20Styling.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Hair%20Styling.png"
+      ]
+    },
+    {
+      "id": "INM-0155",
+      "name": "Hand & FootCare",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 304,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Hand%20&%20FootCare.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Hand%20&%20FootCare.webp"
+      ]
+    },
+    {
+      "id": "INM-0156",
+      "name": "Handwash",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 120,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Handwash.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Handwash.webp"
+      ]
+    },
+    {
+      "id": "INM-0157",
+      "name": "Makeup",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 153,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Makeup.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Makeup.webp"
+      ]
+    },
+    {
+      "id": "INM-0158",
+      "name": "Men s Grooming",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 59,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Men_s%20Grooming.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Men_s%20Grooming.png"
+      ]
+    },
+    {
+      "id": "INM-0159",
+      "name": "shampoo & Conditioner",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 24,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/shampoo%20&%20Conditioner.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/shampoo%20&%20Conditioner.webp"
+      ]
+    },
+    {
+      "id": "INM-0160",
+      "name": "Shower Gels & Scrubs",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 236,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Shower%20Gels%20&%20Scrubs.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Shower%20Gels%20&%20Scrubs.webp"
+      ]
+    },
+    {
+      "id": "INM-0161",
+      "name": "Skin & Hair Care",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 108,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Skin%20&%20Hair%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Skin%20&%20Hair%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0162",
+      "name": "Sunscreen",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 353,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Sunscreen.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Sunscreen.webp"
+      ]
+    },
+    {
+      "id": "INM-0163",
+      "name": "Women s Grooming",
+      "categoryId": "personal-care",
+      "category": "Personal Care",
+      "unit": "1 pack",
+      "price": 228,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Personal%20Care/Women_s%20Grooming.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Personal%20Care/Women_s%20Grooming.webp"
+      ]
+    },
+    {
+      "id": "INM-0164",
+      "name": "Accessories & Other Supplies",
+      "categoryId": "pet-care",
+      "category": "Pet Care",
+      "unit": "1 pack",
+      "price": 395,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pet%20Care/Accessories%20&%20Other%20Supplies.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Pet%20Care/Accessories%20&%20Other%20Supplies.png"
+      ]
+    },
+    {
+      "id": "INM-0165",
+      "name": "Cat Needs",
+      "categoryId": "pet-care",
+      "category": "Pet Care",
+      "unit": "1 pack",
+      "price": 157,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pet%20Care/Cat%20Needs.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Pet%20Care/Cat%20Needs.png"
+      ]
+    },
+    {
+      "id": "INM-0166",
+      "name": "Diverse Pet Food",
+      "categoryId": "pet-care",
+      "category": "Pet Care",
+      "unit": "1 pack",
+      "price": 126,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pet%20Care/Diverse%20Pet%20Food.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Pet%20Care/Diverse%20Pet%20Food.png"
+      ]
+    },
+    {
+      "id": "INM-0167",
+      "name": "Dog Needs",
+      "categoryId": "pet-care",
+      "category": "Pet Care",
+      "unit": "1 pack",
+      "price": 186,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pet%20Care/Dog%20Needs.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Pet%20Care/Dog%20Needs.png"
+      ]
+    },
+    {
+      "id": "INM-0168",
+      "name": "Pet Grooming",
+      "categoryId": "pet-care",
+      "category": "Pet Care",
+      "unit": "1 pack",
+      "price": 24,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pet%20Care/Pet%20Grooming.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Pet%20Care/Pet%20Grooming.png"
+      ]
+    },
+    {
+      "id": "INM-0169",
+      "name": "Adult Diapers",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 365,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Adult%20Diapers.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Adult%20Diapers.webp"
+      ]
+    },
+    {
+      "id": "INM-0170",
+      "name": "Antiseptic Liquid",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 385,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Antiseptic%20Liquid.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Antiseptic%20Liquid.webp"
+      ]
+    },
+    {
+      "id": "INM-0171",
+      "name": "Beauty Supplements",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 293,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Beauty%20Supplements.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Beauty%20Supplements.webp"
+      ]
+    },
+    {
+      "id": "INM-0172",
+      "name": "Chyawanprash",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 180,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Chyawanprash.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Chyawanprash.webp"
+      ]
+    },
+    {
+      "id": "INM-0173",
+      "name": "Cough & Cold",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 328,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Cough%20&%20Cold.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Cough%20&%20Cold.webp"
+      ]
+    },
+    {
+      "id": "INM-0174",
+      "name": "Digestive Care",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 98,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Digestive%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Digestive%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0175",
+      "name": "Everyday Medicines",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 349,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Everyday%20Medicines.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Everyday%20Medicines.webp"
+      ]
+    },
+    {
+      "id": "INM-0176",
+      "name": "Healthcare Devices",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 289,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Healthcare%20Devices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Healthcare%20Devices.webp"
+      ]
+    },
+    {
+      "id": "INM-0177",
+      "name": "Herbal Drinks",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 18,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Herbal%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Herbal%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0178",
+      "name": "Marks & Sanitizers",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 135,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Marks%20&%20Sanitizers.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Marks%20&%20Sanitizers.webp"
+      ]
+    },
+    {
+      "id": "INM-0179",
+      "name": "Milk Drinks",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 68,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Milk%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Milk%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0180",
+      "name": "Oral Health & Eye Care",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 155,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Oral%20Health%20&%20Eye%20Care.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Oral%20Health%20&%20Eye%20Care.webp"
+      ]
+    },
+    {
+      "id": "INM-0181",
+      "name": "Pre & Post Workout",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 313,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Pre%20&%20Post%20Workout.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Pre%20&%20Post%20Workout.webp"
+      ]
+    },
+    {
+      "id": "INM-0182",
+      "name": "Proten & Sports supplements",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 330,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Proten%20&%20Sports%20supplements.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Proten%20&%20Sports%20supplements.webp"
+      ]
+    },
+    {
+      "id": "INM-0183",
+      "name": "Skin Treatment",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 147,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Skin%20Treatment.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Skin%20Treatment.webp"
+      ]
+    },
+    {
+      "id": "INM-0184",
+      "name": "Smoking Cessation",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 32,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Smoking%20Cessation.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Smoking%20Cessation.webp"
+      ]
+    },
+    {
+      "id": "INM-0185",
+      "name": "Vitamins & Daily Nutrition",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 339,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Vitamins%20&%20Daily%20Nutrition.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Vitamins%20&%20Daily%20Nutrition.webp"
+      ]
+    },
+    {
+      "id": "INM-0186",
+      "name": "Wound Care And Pain Relief",
+      "categoryId": "pharma-wellness",
+      "category": "Pharma & Wellness",
+      "unit": "1 pack",
+      "price": 105,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Pharma%20&%20Wellness/Wound%20Care%20And%20Pain%20Relief.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Pharma%20&%20Wellness/Wound%20Care%20And%20Pain%20Relief.webp"
+      ]
+    },
+    {
+      "id": "INM-0187",
+      "name": "Asian Sauces",
+      "categoryId": "sauces-spreads",
+      "category": "Sauces & Spreads",
+      "unit": "1 pack",
+      "price": 380,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sauces%20&%20Spreads/Asian%20Sauces.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sauces%20&%20Spreads/Asian%20Sauces.webp"
+      ]
+    },
+    {
+      "id": "INM-0188",
+      "name": "Cooking Sauces & Vinegar",
+      "categoryId": "sauces-spreads",
+      "category": "Sauces & Spreads",
+      "unit": "1 pack",
+      "price": 150,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sauces%20&%20Spreads/Cooking%20Sauces%20&%20Vinegar.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sauces%20&%20Spreads/Cooking%20Sauces%20&%20Vinegar.webp"
+      ]
+    },
+    {
+      "id": "INM-0189",
+      "name": "Indian Chutney & Pickle",
+      "categoryId": "sauces-spreads",
+      "category": "Sauces & Spreads",
+      "unit": "1 pack",
+      "price": 130,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sauces%20&%20Spreads/Indian%20Chutney%20&%20Pickle.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sauces%20&%20Spreads/Indian%20Chutney%20&%20Pickle.webp"
+      ]
+    },
+    {
+      "id": "INM-0190",
+      "name": "Jam & Spreads",
+      "categoryId": "sauces-spreads",
+      "category": "Sauces & Spreads",
+      "unit": "1 pack",
+      "price": 163,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sauces%20&%20Spreads/Jam%20&%20Spreads.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sauces%20&%20Spreads/Jam%20&%20Spreads.webp"
+      ]
+    },
+    {
+      "id": "INM-0191",
+      "name": "Tomato & Chilli Ketchup",
+      "categoryId": "sauces-spreads",
+      "category": "Sauces & Spreads",
+      "unit": "1 pack",
+      "price": 87,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sauces%20&%20Spreads/Tomato%20&%20Chilli%20Ketchup.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sauces%20&%20Spreads/Tomato%20&%20Chilli%20Ketchup.webp"
+      ]
+    },
+    {
+      "id": "INM-0192",
+      "name": "Bhujia & Mixtures",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 391,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Bhujia%20&%20Mixtures.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Bhujia%20&%20Mixtures.webp"
+      ]
+    },
+    {
+      "id": "INM-0193",
+      "name": "Chips & Crisps",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 375,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Chips%20&%20Crisps.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Chips%20&%20Crisps.webp"
+      ]
+    },
+    {
+      "id": "INM-0194",
+      "name": "Energy Bars",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 362,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Energy%20Bars.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Energy%20Bars.png"
+      ]
+    },
+    {
+      "id": "INM-0195",
+      "name": "Granola",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 217,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Granola.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Granola.webp"
+      ]
+    },
+    {
+      "id": "INM-0196",
+      "name": "Imported Snacks",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 332,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Imported%20Snacks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Imported%20Snacks.webp"
+      ]
+    },
+    {
+      "id": "INM-0197",
+      "name": "Makhana & More",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 366,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Makhana%20&%20More.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Makhana%20&%20More.jpg"
+      ]
+    },
+    {
+      "id": "INM-0198",
+      "name": "Munchies Gift Packs",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 54,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Munchies%20Gift%20Packs.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Munchies%20Gift%20Packs.png"
+      ]
+    },
+    {
+      "id": "INM-0199",
+      "name": "Nachos",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 395,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Nachos.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Nachos.webp"
+      ]
+    },
+    {
+      "id": "INM-0200",
+      "name": "Namkeen Snacks",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 233,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Namkeen%20Snacks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Namkeen%20Snacks.webp"
+      ]
+    },
+    {
+      "id": "INM-0201",
+      "name": "Papad & Fryums",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 264,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Papad%20&%20Fryums.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Papad%20&%20Fryums.webp"
+      ]
+    },
+    {
+      "id": "INM-0202",
+      "name": "Popcorn",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 34,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Popcorn.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Popcorn.webp"
+      ]
+    },
+    {
+      "id": "INM-0203",
+      "name": "Rusks & Wafers",
+      "categoryId": "snacks-munchies",
+      "category": "Snacks & Munchies",
+      "unit": "1 pack",
+      "price": 260,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Snacks%20&%20Munchies/Rusks%20&%20Wafers.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Snacks%20&%20Munchies/Rusks%20&%20Wafers.jpg"
+      ]
+    },
+    {
+      "id": "INM-0204",
+      "name": "Cakes & Rolls",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 147,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Cakes%20&%20Rolls.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Cakes%20&%20Rolls.webp"
+      ]
+    },
+    {
+      "id": "INM-0205",
+      "name": "Candies & Gum",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 305,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Candies%20&%20Gum.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Candies%20&%20Gum.webp"
+      ]
+    },
+    {
+      "id": "INM-0206",
+      "name": "Chocolates",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 52,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Chocolates.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Chocolates.png"
+      ]
+    },
+    {
+      "id": "INM-0207",
+      "name": "Energy Bars",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 179,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Energy%20Bars.png",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Energy%20Bars.png"
+      ]
+    },
+    {
+      "id": "INM-0208",
+      "name": "Flavoured Yougurts",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 387,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Flavoured%20Yougurts.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Flavoured%20Yougurts.webp"
+      ]
+    },
+    {
+      "id": "INM-0209",
+      "name": "Ice Cream & Frozen Dessert",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 334,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Ice%20Cream%20&%20Frozen%20Dessert.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Ice%20Cream%20&%20Frozen%20Dessert.webp"
+      ]
+    },
+    {
+      "id": "INM-0210",
+      "name": "Indian Sweets",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 74,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Indian%20Sweets.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Indian%20Sweets.webp"
+      ]
+    },
+    {
+      "id": "INM-0211",
+      "name": "Mouth Fresheners",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 100,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Mouth%20Fresheners.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Mouth%20Fresheners.webp"
+      ]
+    },
+    {
+      "id": "INM-0212",
+      "name": "Syrups",
+      "categoryId": "sweet-tooth",
+      "category": "Sweet Tooth",
+      "unit": "1 pack",
+      "price": 43,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Sweet%20Tooth/Syrups.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Sweet%20Tooth/Syrups.webp"
+      ]
+    },
+    {
+      "id": "INM-0213",
+      "name": "Coffee",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 241,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Coffee.jpg",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Coffee.jpg"
+      ]
+    },
+    {
+      "id": "INM-0214",
+      "name": "Cold Coffee & Ice Tea",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 68,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Cold%20Coffee%20&%20Ice%20Tea.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Cold%20Coffee%20&%20Ice%20Tea.webp"
+      ]
+    },
+    {
+      "id": "INM-0215",
+      "name": "Energy Drinks",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 112,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Energy%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Energy%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0216",
+      "name": "Fruit Juices",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 123,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Fruit%20Juices.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Fruit%20Juices.webp"
+      ]
+    },
+    {
+      "id": "INM-0217",
+      "name": "Green & Flavoured Tea",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 179,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Green%20&%20Flavoured%20Tea.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Green%20&%20Flavoured%20Tea.webp"
+      ]
+    },
+    {
+      "id": "INM-0218",
+      "name": "Herbal Drinks",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 361,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Herbal%20Drinks.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Herbal%20Drinks.webp"
+      ]
+    },
+    {
+      "id": "INM-0219",
+      "name": "Hot Chocolate",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 211,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Hot%20Chocolate.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Hot%20Chocolate.webp"
+      ]
+    },
+    {
+      "id": "INM-0220",
+      "name": "Imported Tea & Coffee",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 380,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Imported%20Tea%20&%20Coffee.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Imported%20Tea%20&%20Coffee.webp"
+      ]
+    },
+    {
+      "id": "INM-0221",
+      "name": "Tea",
+      "categoryId": "tea-coffee-health-drink",
+      "category": "Tea, Coffee & Health Drink",
+      "unit": "1 pack",
+      "price": 232,
+      "description": "Demo listing based on the supplied product folder image. Update exact brand, size and rate in the admin dashboard.",
+      "image": "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Tea.webp",
+      "imageOptions": [
+        "/catalog-assets/listings/Tea,%20Coffee%20&%20Health%20Drink/Tea.webp"
+      ]
+    }
+  ],
+  "ratesAreDemo": true
+}
