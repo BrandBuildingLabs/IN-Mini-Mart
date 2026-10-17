@@ -1,0 +1,17 @@
+
+
+/* IN MINI MART storefront */
+.store-info-icon {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 auto;
+  place-items: center;
+  border-radius: 14px;
+  background: #f0f2e9;
+  color: #356b48;
+}
+
+@media (max-width: 640px) {
+  .store-hero { border-radius: 1.5rem; }
+}
