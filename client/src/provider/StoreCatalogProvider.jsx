@@ -4,6 +4,26 @@ import SummaryApi from '../common/SummaryApi'
 
 const CatalogContext = createContext(null)
 const CART_KEY = 'inMiniMartCart'
+const apiBase = String(import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
+const resolveCatalogImage = image => {
+  if (!image || /^https?:\/\//i.test(image)) return image
+  if (image.startsWith('/uploads/')) return `${apiBase}${image}`
+  return `${import.meta.env.BASE_URL}${image.replace(/^\//, '')}`
+}
+const resolveCatalogAssets = data => ({
+  ...data,
+  categories: (data.categories || []).map(item => ({ ...item, image: resolveCatalogImage(item.image) })),
+  products: (data.products || []).map(item => ({ ...item, image: resolveCatalogImage(item.image) })),
+})
+const storedCatalogImage = image => {
+  if (!image) return image
+  try {
+    const path = new URL(image, window.location.origin).pathname
+    const basePath = import.meta.env.BASE_URL
+    const unprefixed = path.startsWith(basePath) ? path.slice(basePath.length - 1) : path
+    return unprefixed
+  } catch { return image }
+}
 const readJSON = (key, fallback) => {
   try { return JSON.parse(localStorage.getItem(key) || 'null') ?? fallback } catch { return fallback }
 }
@@ -18,18 +38,17 @@ export const StoreCatalogProvider = ({ children }) => {
     let active = true
     const load = async () => {
       try {
-        const response = await fetch('/catalog.json')
+        const response = await fetch(`${import.meta.env.BASE_URL}catalog.json`)
         if (response.ok) {
           const data = await response.json()
-          if (active) setCatalog(data)
+          if (active) setCatalog(resolveCatalogAssets(data))
         }
       } catch (error) { console.error('Unable to load the sample catalog', error) }
-      const apiBase = String(import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
       try {
         const response = await fetch(`${apiBase}/api/catalog`, { signal: AbortSignal.timeout(2500) })
         const result = await response.json()
         if (response.ok && result.success && Array.isArray(result.data?.products) && active) {
-          setCatalog(result.data)
+          setCatalog(resolveCatalogAssets(result.data))
           setSource('api')
         }
       } catch { /* Static sample products stay visible while MongoDB is offline. */ }
@@ -52,7 +71,7 @@ export const StoreCatalogProvider = ({ children }) => {
 
   const saveProduct = useCallback(async changes => {
     if (source !== 'api') throw new Error('Start the API and connect MongoDB before saving product changes.')
-    const updated = { ...changes, id: String(changes.id).trim(), name: String(changes.name).trim(), price: Number(changes.price) }
+    const updated = { ...changes, image: storedCatalogImage(changes.image), id: String(changes.id).trim(), name: String(changes.name).trim(), price: Number(changes.price) }
     if (!updated.id || !updated.name || !updated.categoryId || !updated.category || !updated.image || !updated.unit || !Number.isFinite(updated.price) || updated.price < 0) throw new Error('Enter a name, category, image, unit, and valid non-negative rate.')
     const response = await Axios({ ...SummaryApi.updateStoreProduct, url: `/api/catalog/products/${encodeURIComponent(updated.id)}`, data: updated })
     if (!response.data.success) throw new Error(response.data.message || 'Product update failed.')
@@ -63,7 +82,7 @@ export const StoreCatalogProvider = ({ children }) => {
 
   const createProduct = useCallback(async changes => {
     if (source !== 'api') throw new Error('Start the API and connect MongoDB before adding products.')
-    const response = await Axios({ url: '/api/catalog/products', method: 'post', data: { ...changes, price: Number(changes.price) } })
+    const response = await Axios({ url: '/api/catalog/products', method: 'post', data: { ...changes, image: storedCatalogImage(changes.image), price: Number(changes.price) } })
     if (!response.data.success) throw new Error(response.data.message || 'Product creation failed.')
     const created = response.data.data
     setCatalog(current => ({ ...current, products: [...current.products, created] }))
