@@ -13,7 +13,7 @@ body{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
-    @apply bg-[#fbfaf5] text-neutral-700 scroll-smooth
+    @apply bg-[#f5f7fb] text-[#17243b] scroll-smooth
 }
 
 .scrollbar-none::-webkit-scrollbar{

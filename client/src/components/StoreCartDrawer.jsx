@@ -45,32 +45,32 @@ const StoreCartDrawer = ({ close }) => {
 
   return (
     <div className="fixed inset-0 z-[70] bg-[#14251b]/55" onClick={close}>
-      <aside className="ml-auto flex h-full w-full max-w-md flex-col bg-[#fbfaf5] shadow-2xl" onClick={event => event.stopPropagation()}>
-        <div className="flex items-center justify-between border-b border-[#e9e8df] bg-white px-5 py-4">
-          <div><p className="text-lg font-extrabold text-[#244a34]">Your basket</p><p className="text-xs text-[#7c877d]">{totalQty} {totalQty === 1 ? 'item' : 'items'} · IN MINI MART</p></div>
-          <button onClick={close} aria-label="Close basket" className="rounded-full p-2 hover:bg-[#f1f2eb]"><IoClose size={22} /></button>
+      <aside className="ml-auto flex h-full w-full max-w-md flex-col bg-[#f5f7fb] shadow-2xl" onClick={event => event.stopPropagation()}>
+        <div className="flex items-center justify-between border-b border-[#dce3ef] bg-white px-5 py-4">
+          <div><p className="text-lg font-extrabold text-[#18396f]">Your basket</p><p className="text-xs text-[#7c877d]">{totalQty} {totalQty === 1 ? 'item' : 'items'} · IN MINI MART</p></div>
+          <button onClick={close} aria-label="Close basket" className="rounded-full p-2 hover:bg-[#edf1f8]"><IoClose size={22} /></button>
         </div>
         {cartItems.length === 0 ? (
-          <div className="flex flex-1 flex-col items-center justify-center px-8 text-center"><span className="text-5xl">🧺</span><h2 className="mt-4 text-lg font-bold text-[#314438]">Your basket is empty</h2><p className="mt-2 text-sm text-[#7c877d]">Add a few essentials and send your order to the shop on WhatsApp.</p></div>
+          <div className="flex flex-1 flex-col items-center justify-center px-8 text-center"><span className="text-5xl">🧺</span><h2 className="mt-4 text-lg font-bold text-[#253752]">Your basket is empty</h2><p className="mt-2 text-sm text-[#7c877d]">Add a few essentials and send your order to the shop on WhatsApp.</p></div>
         ) : (
           <>
             <div className="flex-1 space-y-3 overflow-y-auto p-4">
               {cartItems.map(({ product, quantity }) => (
-                <article key={product.id} className="flex gap-3 rounded-2xl border border-[#e9e8df] bg-white p-3">
-                  <img src={product.image} alt="" className="h-16 w-16 rounded-xl bg-[#f7f7f1] object-contain" />
+                <article key={product.id} className="flex gap-3 rounded-2xl border border-[#dce3ef] bg-white p-3">
+                  <img src={product.image} alt="" className="h-16 w-16 rounded-xl bg-[#f5f7fb] object-contain" />
                   <div className="min-w-0 flex-1"><p className="text-[10px] font-semibold text-[#809084]">{product.id} · {product.category}</p><p className="mt-1 truncate text-sm font-bold text-[#2d4134]">{product.name}</p><p className="mt-1 text-xs text-[#78867b]">{formatRupees(product.price)} / {product.unit}</p></div>
-                  <div className="flex h-8 shrink-0 items-center rounded-lg bg-[#edf2eb] text-[#2d7048]"><button onClick={() => setQuantity(product.id, quantity - 1)} className="px-2">−</button><span className="min-w-4 text-center text-xs font-bold">{quantity}</span><button onClick={() => setQuantity(product.id, quantity + 1)} className="px-2">+</button></div>
+                  <div className="flex h-8 shrink-0 items-center rounded-lg bg-[#eaf0fa] text-[#315b98]"><button onClick={() => setQuantity(product.id, quantity - 1)} className="px-2">−</button><span className="min-w-4 text-center text-xs font-bold">{quantity}</span><button onClick={() => setQuantity(product.id, quantity + 1)} className="px-2">+</button></div>
                 </article>
               ))}
               <div className="space-y-2 rounded-2xl bg-white p-4">
-                <p className="mb-3 text-sm font-bold text-[#314438]">Contact details <span className="font-normal text-[#8b938b]">(needed for order)</span></p>
-                <input value={customer.name} onChange={event => setCustomer({ ...customer, name: event.target.value })} placeholder="Your name" required className="w-full rounded-xl border border-[#e7e8df] bg-[#fbfaf5] px-3 py-2.5 text-sm outline-none focus:border-[#76a17e]" />
-                <input value={customer.phone} onChange={event => setCustomer({ ...customer, phone: event.target.value })} placeholder="Your phone number" inputMode="tel" required className="w-full rounded-xl border border-[#e7e8df] bg-[#fbfaf5] px-3 py-2.5 text-sm outline-none focus:border-[#76a17e]" />
-                <textarea value={customer.address} onChange={event => setCustomer({ ...customer, address: event.target.value })} placeholder="Delivery address or pickup note" rows={2} className="w-full resize-none rounded-xl border border-[#e7e8df] bg-[#fbfaf5] px-3 py-2.5 text-sm outline-none focus:border-[#76a17e]" />
+                <p className="mb-3 text-sm font-bold text-[#253752]">Contact details <span className="font-normal text-[#8b938b]">(needed for order)</span></p>
+                <input value={customer.name} onChange={event => setCustomer({ ...customer, name: event.target.value })} placeholder="Your name" required className="w-full rounded-xl border border-[#dce3ef] bg-[#f5f7fb] px-3 py-2.5 text-sm outline-none focus:border-[#6e8fbe]" />
+                <input value={customer.phone} onChange={event => setCustomer({ ...customer, phone: event.target.value })} placeholder="Your phone number" inputMode="tel" required className="w-full rounded-xl border border-[#dce3ef] bg-[#f5f7fb] px-3 py-2.5 text-sm outline-none focus:border-[#6e8fbe]" />
+                <textarea value={customer.address} onChange={event => setCustomer({ ...customer, address: event.target.value })} placeholder="Delivery address or pickup note" rows={2} className="w-full resize-none rounded-xl border border-[#dce3ef] bg-[#f5f7fb] px-3 py-2.5 text-sm outline-none focus:border-[#6e8fbe]" />
               </div>
             </div>
-            <div className="border-t border-[#e9e8df] bg-white p-4">
-              <div className="mb-3 flex items-center justify-between"><span className="text-sm text-[#66756a]">Estimated total</span><strong className="text-lg text-[#244a34]">{formatRupees(total)}</strong></div>
+            <div className="border-t border-[#dce3ef] bg-white p-4">
+              <div className="mb-3 flex items-center justify-between"><span className="text-sm text-[#66756a]">Estimated total</span><strong className="text-lg text-[#18396f]">{formatRupees(total)}</strong></div>
               {orderError && <p role="alert" className="mb-3 rounded-lg bg-red-50 p-3 text-xs text-red-700">{orderError}</p>}
               <button onClick={sendOrder} disabled={sending} className="flex w-full items-center justify-center gap-2 rounded-xl bg-[#18864b] px-4 py-3.5 text-sm font-bold text-white transition hover:bg-[#126c3c]"><FaWhatsapp size={19} /> {sending ? 'Saving order…' : 'Place order on WhatsApp'}</button>
               <p className="mt-2 text-center text-[10px] text-[#899188]">The shop receives a pending order record, then WhatsApp opens so you can confirm it.</p>

@@ -10,7 +10,7 @@ export default {
         "primary-200" : "#ffbf00",
         "primary-100" : "#ffc929",
         "secondary-200" : "#00b050",
-        "secondary-100" : "#0b1a78"
+        "secondary-100" : "#10264f"
       }
     },
   },

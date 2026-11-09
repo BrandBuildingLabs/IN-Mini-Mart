@@ -8,8 +8,8 @@
   flex: 0 0 auto;
   place-items: center;
   border-radius: 14px;
-  background: #f0f2e9;
-  color: #356b48;
+  background: #eaf0fa;
+  color: #244d88;
 }
 
 @media (max-width: 640px) {
