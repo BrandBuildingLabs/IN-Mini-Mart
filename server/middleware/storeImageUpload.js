@@ -15,4 +15,4 @@ const storage = multer.diskStorage({
 export default multer({ storage, limits: { fileSize: 5 * 1024 * 1024, files: 1 }, fileFilter: (_request, file, callback) => {
   if (!extensions[file.mimetype]) return callback(new Error('Only JPG, PNG, WEBP, and AVIF images are accepted.'))
   callback(null, true)
-})
+} })

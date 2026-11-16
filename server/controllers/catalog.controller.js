@@ -3,23 +3,26 @@ import path from 'node:path'
 import crypto from 'node:crypto'
 import { fileURLToPath } from 'node:url'
 import StoreCatalogProduct from '../models/storeCatalogProduct.model.js'
+import StoreCatalogCategory from '../models/storeCatalogCategory.model.js'
 
 const here = path.dirname(fileURLToPath(import.meta.url))
 const projectRoot = path.resolve(here, '../..')
 const catalogPath = path.join(projectRoot, 'Products', 'catalog.json')
-const readCategories = async () => {
-  const catalog = JSON.parse(await fs.readFile(catalogPath, 'utf8'))
-  return catalog.categories || []
-}
+const readCategories = () => StoreCatalogCategory.find({ active: true }).select('-_id -__v -createdAt -updatedAt').lean()
 
 export async function seedStoreCatalog() {
   const catalog = JSON.parse(await fs.readFile(catalogPath, 'utf8'))
+  let categoriesInserted = 0
+  for (const category of catalog.categories || []) {
+    const result = await StoreCatalogCategory.updateOne({ id: category.id }, { $setOnInsert: { ...category, active: true } }, { upsert: true })
+    categoriesInserted += result.upsertedCount || 0
+  }
   let inserted = 0
   for (const product of catalog.products || []) {
     const result = await StoreCatalogProduct.updateOne({ id: product.id }, { $setOnInsert: { ...product, active: product.active !== false } }, { upsert: true })
     inserted += result.upsertedCount || 0
   }
-  console.log(`Store catalog seeded: ${inserted} new product records.`)
+  console.log(`Store catalog seeded: ${categoriesInserted} new category and ${inserted} new product records.`)
 }
 
 export const getStoreCatalog = async (_request, response) => {
